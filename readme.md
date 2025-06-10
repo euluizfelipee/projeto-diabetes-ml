@@ -2,6 +2,9 @@
 
 ## 📌 Descrição
 
+Video: Video: https://drive.google.com/file/d/1rgj1q3WLzpvsKbWpHddUqg342Emh7y2I/view?pli=1
+
+
 Este projeto tem como objetivo prever a ocorrência de **diabetes tipo 2** em pacientes a partir de dados clínicos, utilizando algoritmos de **aprendizado de máquina supervisionado**. O estudo é baseado no **dataset Pima Indians Diabetes**, amplamente utilizado para benchmark de modelos preditivos na área de saúde.
 
 ## 🎯 Objetivos
