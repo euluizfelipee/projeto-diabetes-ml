@@ -79,16 +79,6 @@ Este projeto tem como objetivo prever a ocorrência de **diabetes tipo 2** em pa
 
 Essas variáveis se destacaram como as mais influentes na predição da doença.
 
-## 💾 Como Executar
-
-```bash
-# Clonar o repositório
-git clone https://github.com/seuusuario/projeto-diabetes-ml.git
-cd projeto-diabetes-ml
-
-# Instalar dependências
-pip install -r requirements.txt
-
 # Executar o script
 python diabetes_predicao.py
 ```
