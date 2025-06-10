@@ -98,13 +98,6 @@ python diabetes_predicao.py
 * `resultados_modelos.csv`: Tabela com desempenho de todos os modelos
 * `melhor_modelo.pkl`: Arquivo com o modelo treinado (XGBoost), pronto para uso/predição
 
-## ⚠️ Limitações e Trabalhos Futuros
-
-* O dataset possui **classes desbalanceadas** (\~35% positivos), o que impactou o **recall**.
-* Sugere-se testar técnicas como **SMOTE** ou **ADASYN**.
-* Ampliar a base com dados genômicos ou hábitos de vida.
-* Desenvolver uma interface clínica para uso prático.
-
 ## 👨‍💼 Autores
 
 * **Luiz Felipe Freire Miguel**
